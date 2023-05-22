@@ -1,2 +1,2 @@
 # Todo-app
-Don't forgrt to add your daily tasks to my todo 
+Don't forget to add your daily tasks 
